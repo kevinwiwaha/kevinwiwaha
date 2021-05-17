@@ -12,4 +12,5 @@
 
 ## 💻 &nbsp;Tech Stack
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-4B8BBE?logo=python&logoColor=FFD43B&style=flat)
 
