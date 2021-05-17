@@ -16,4 +16,9 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-2E2E2E?logo=javascript&logoColor=FFD43B&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML5-FF4600?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-008BFF?logo=css3&logoColor=white&style=flat)
+![Php](https://img.shields.io/badge/-PHP-911AE8?logo=php&logoColor=white&style=flat)
+![Express JS](https://img.shields.io/badge/ExpressJS-%23404d59.svg?&style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=flat&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Sass-hotpink.svg?&style=flat&logo=SASS&logoColor=white)
 
